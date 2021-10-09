@@ -2,12 +2,11 @@
 
 
 
-Here are some ideas to get you started:
 
 - 
 - 🌱 I’m currently learning Java, Spring Boot, Angular
 - 😄 Pronouns: ele
--->
+
 
 <div align="center">
   <a href="https://github.com/davifarias7">
