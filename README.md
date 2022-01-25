@@ -5,7 +5,7 @@
 
 - 
 - 🌱 I’m currently learning Java, Spring Boot, Angular
-- 😄 Pronouns: ele
+-  :books: Student of System Analysis and Development
 
 
 <div align="center">
