@@ -3,7 +3,7 @@
 
 
 
--  :computer: I’m currently learning Java, Spring Boot, Angular
+-  :computer: I’m currently learning Java, Spring Boot, Java Script, React, Angular, SQL, PLSQL, APEX
 -  :books: Student of System Analysis and Development
 
 
